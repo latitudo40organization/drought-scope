@@ -21,6 +21,12 @@ poetry lock && poetry install
 - [drought_scope.pth](drought_scope.pth): PyTorch model weight 
 - [Solution.ipynb](Solution.ipynb): Jupyter notebook
 
+## Dataset
+Download the dataset from zenodo and unzip data in /data/ folder
+```
+https://zenodo.org/record/8363750
+```
+
 ## Team
 **Latitudo 40**
 
